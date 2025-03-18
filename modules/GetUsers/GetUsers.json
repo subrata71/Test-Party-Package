@@ -5,7 +5,15 @@
   "unpublishedModule": {
     "inputsForm": [
       {
-        "children": [],
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "3",
+            "id": "lpnmjmmstv",
+            "label": "limit",
+            "propertyName": "inputs.limit"
+          }
+        ],
         "id": "ofxvgcoctw",
         "sectionName": ""
       }
