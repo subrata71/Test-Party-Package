@@ -7,11 +7,19 @@
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {
+      "foo": "[]",
       "myFun1": "[]",
       "myFun2": "[]"
     },
     "moduleId": "JSModule3",
     "moduleInputs": {
+      "nghqcdxggj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "nghqcdxggj",
+        "label": "foo",
+        "propertyName": "inputs.foo"
+      },
       "wbcuktzunn": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",

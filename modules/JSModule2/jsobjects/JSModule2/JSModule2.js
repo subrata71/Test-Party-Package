@@ -10,5 +10,8 @@ export default {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 		return moment.now()
+	},
+	foo () {
+		return "foo"
 	}
 }
