@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "67d95d539ad23d1e026d70bf_b70837e5-b102-4745-a2e5-e32fd3b2f942",
+  "id": "NewJSModule1_MockUsers",
+  "moduleUUID": "df7e9f56-f3be-469b-979f-360397522a5b",
+  "packageUUID": "53526172-6316-4fde-ad58-81ca1735d66b",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {},
+    "moduleId": "NewJSModule1",
+    "moduleInputs": {},
+    "name": "MockUsers"
+  }
+}

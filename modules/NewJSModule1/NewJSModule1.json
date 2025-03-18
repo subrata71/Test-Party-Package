@@ -1,6 +1,6 @@
 {
-  "gitSyncId": "67d95b2a9ad23d1e026d6f21_1ff05319-a882-42fb-90be-ba8160cf3959",
-  "moduleUUID": "3414aa3e-5384-41cb-9cca-0ca4a19f98ac",
+  "gitSyncId": "67d95d539ad23d1e026d70bf_9929c46b-8534-4b56-9f2d-ac772acfc25d",
+  "moduleUUID": "bf87bff5-f079-47c2-8c96-2ee974037d6a",
   "type": "JS_MODULE",
   "unpublishedModule": {
     "inputsForm": [
@@ -9,22 +9,22 @@
           {
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
-            "id": "xczmbtzgek",
+            "id": "jlgfwgwdvj",
             "label": "myFun2",
             "propertyName": "inputs.myFun2"
           },
           {
             "controlType": "INPUT_TEXT",
             "defaultValue": "[]",
-            "id": "oeemcoelab",
+            "id": "ggrfwafxxz",
             "label": "myFun1",
             "propertyName": "inputs.myFun1"
           }
         ],
-        "id": "atatejfwgq",
+        "id": "eqjgplehek",
         "sectionName": ""
       }
     ],
-    "name": "JSModule3"
+    "name": "NewJSModule1"
   }
 }

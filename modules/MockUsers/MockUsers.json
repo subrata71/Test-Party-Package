@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67d95d539ad23d1e026d70bf_438e9577-53d9-4cd0-9697-6b0b2ad9b73c",
+  "moduleUUID": "df7e9f56-f3be-469b-979f-360397522a5b",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "shnjzpizgh",
+        "sectionName": ""
+      }
+    ],
+    "name": "MockUsers"
+  }
+}
