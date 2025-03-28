@@ -10,5 +10,11 @@ export default {
 		//	use async-await or promises
 		//	await storeValue('varName', 'hello world')
 		return moment.now()
+	},
+	getCurrentVersion() {
+		return "v8.0.0"
+	},
+	v8() {
+		return "v8"
 	}
 }

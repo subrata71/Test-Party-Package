@@ -7,11 +7,27 @@
   "unpublishedModuleInstance": {
     "contextType": "MODULE",
     "inputs": {
+      "getCurrentVersion": "[]",
       "myFun1": "[]",
-      "myFun2": "[]"
+      "myFun2": "[]",
+      "v8": "[]"
     },
     "moduleId": "JSModule3",
     "moduleInputs": {
+      "efpojumgye": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "efpojumgye",
+        "label": "v8",
+        "propertyName": "inputs.v8"
+      },
+      "qjoencuwuc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "qjoencuwuc",
+        "label": "getCurrentVersion",
+        "propertyName": "inputs.getCurrentVersion"
+      },
       "wbcuktzunn": {
         "controlType": "INPUT_TEXT",
         "defaultValue": "[]",
